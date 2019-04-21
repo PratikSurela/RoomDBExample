@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="color_white">#FFFFFF</color>
+    <color name="color_black">#000000</color>
+
+    <color name="light_pink">#EC268F</color>
+    <color name="light_pink1">#e21c85</color>
+    <color name="light_pink2">#d8127b</color>
+    <color name="light_pink3">#E72892</color>
+    <color name="light_pink_plus">#F04382</color>
+
+    <color name="dark_purple">#A93594</color>
+    <color name="dark_purple1">#972d84</color>
+
+    <color name="light_green">#A9CF46</color>
+    <color name="light_green1">#9dc23d</color>
+    <color name="light_green2">#92b535</color>
+
+    <color name="dark_green">#0D9D58</color>
+    <color name="dark_green1">#0e8f52</color>
+    <color name="dark_green2">#0d7e49</color>
+
+    <color name="dark_orange">#d26f25</color>
+    <color name="light_orange">#F58634</color>
+    <color name="light_orange1">#ec7f2e</color>
+    <color name="light_orange2">#F2863A</color>
+
+    <color name="color_fb_default">#3C5A99</color>
+    <color name="color_fb_dark">#355391</color>
+
+    <color name="light_blue">#0098DB</color>
+    <color name="light_blue1">#0492d0</color>
+
+    <color name="dark_blue">#086994</color>
+    <color name="dark_blue1">#095f86</color>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+
+    <color name="dark_grey">#212121</color>
+    <color name="dark_grey0">#444444</color>
+    <color name="dark_grey1">#424242</color>
+    <color name="dark_grey2">#616161</color>
+    <color name="dark_grey3">#787777</color>
+
+    <color name="light_grey">#757575</color>
+    <color name="light_grey0">#E5E5E5</color>
+
+    <color name="light_grey1">#9E9E9E</color>
+    <color name="light_grey2">#BDBDBD</color>
+    <color name="light_grey3">#E0E0E0</color>
+    <color name="light_grey4">#edecec</color>
+    <color name="light_grey5">#FAFAFA</color>
+
+    <color name="transparent">#bb000000</color>
+
+    <color name="red_dark">#B71C1C</color>
+    <color name="red_dark1">#C62828</color>
+    <color name="red_dark2">#D32F2F</color>
+    <color name="red_dark3">#E53935</color>
+</resources>

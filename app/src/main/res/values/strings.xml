@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <!--Registration-->
+    <string name="username_hint">Username*</string>
+    <string name="email_hint">Email*</string>
+    <string name="pass_hint">Password*</string>
+    <string name="phone_hint">Phone Number*</string>
+    <string name="login">Login</string>
+    <!--Registration-->
+
+    <!--Login-->
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <!--Login-->
+</resources>
